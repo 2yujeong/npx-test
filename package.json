@@ -1,6 +1,6 @@
 {
   "name": "yujeong",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "bin": "index.js",
   "main": "./dist/index.cjs",
